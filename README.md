@@ -22,7 +22,3 @@ Make sure you have the following installed and working:
 
 * [React](https://facebook.github.io/react/) - A javascript library for building user interfaces
 * [Create React App](https://github.com/facebookincubator/create-react-app) - Create React apps with no build configuration
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
