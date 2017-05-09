@@ -1,0 +1,16 @@
+.New-article,
+.New-article-text {
+	width: 270px;
+	height: 286px;
+}
+
+.New-article {
+	background-color: #F6F6FD;
+	margin: 20px;
+}
+
+.New-article-text {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}

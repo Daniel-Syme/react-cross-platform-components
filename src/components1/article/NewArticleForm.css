@@ -1,0 +1,31 @@
+.New-article-form {
+	display: flex;
+	flex-wrap: wrap;
+	align-items: center;
+	width: 270px;
+	height: 286px;
+	background-color: #F6F6FD;
+	margin: 20px;
+	text-align: left;
+	padding: 20px;
+	box-sizing: border-box;
+}
+
+.New-article-form div:nth-child(1n) input {
+	width: 186px;
+}
+
+.New-article-form div:nth-child(2n) input {
+	width: 196px;
+}
+
+.New-article-form div:nth-child(3n) input {
+	width: 147px;
+}
+
+.Add {
+	width: 100%;
+	text-align: center;
+	padding: 10px;
+	background-color: #E7EAF3;
+}
