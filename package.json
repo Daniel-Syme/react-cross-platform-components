@@ -47,8 +47,8 @@
     "whatwg-fetch": "2.0.2"
   },
   "scripts": {
-    "start1": "node scripts/start1.js",
-    "start2": "node scripts/start2.js",
+    "start-delta": "node scripts/start.delta.js",
+    "start-epsilon": "node scripts/start.epsilon.js",
     "build": "node scripts/build.js",
     "test": "node scripts/test.js --env=jsdom"
   },
