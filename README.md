@@ -16,7 +16,7 @@ Make sure you have the following installed and working:
 
 1. Run `yarn`
 
-2. Run `yarn start1` to run the site based on components1 OR run `yarn start2` to run the site based on components2
+2. Run `yarn start-delta` to run the site based on components-delta OR run `yarn start-epsilon` to run the site based on components-epsilon
 
 ## Built With
 
